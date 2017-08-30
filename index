@@ -1,0 +1,148 @@
+
+</html>
+<head>
+   
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+    
+ <title>Curriculo</title>
+
+    
+ <style type="text/css">
+        
+* { margin: 0; padding: 0; }
+      
+  body { font: 16px Helvetica, Sans-Serif; line-height: 24px; background: url("http://www.sisbin.ufop.br/evento/images/plano%20de%20fundo.jpg"); }
+       
+ .clear { clear: both; }
+       
+ #page-wrap { width: 800px; margin: 40px auto 60px; }
+      
+ #pic { float: right; margin: -30px 0 0 0; }
+      
+ h1 { margin: 0 0 16px 0; padding: 0 0 16px 0; font-size: 42px; font-weight: bold; letter-spacing: -2px; border-bottom: 1px solid #999; }
+      
+  h2 { font-size: 20px; margin: 0 0 6px 0; position: relative; }
+        
+h2 span { position: absolute; bottom: 0; right: 0; font-style: italic; font-family: Georgia, Serif; font-size: 16px; color: #999; font-weight: normal; }
+     
+p { margin: 0 0 16px 0; }
+      
+  a { color: #999; text-decoration: none; border-bottom: 1px dotted #999; }
+                 
+  #objective { width: 500px; float: left; }
+       
+ #objective p { font-family: Georgia, Serif; font-style: italic; color: #666; }
+      
+ dt { font-style: italic; font-weight: bold; font-size: 18px; text-align: right; padding: 0 26px 0 0; width: 150px; float: left; height: 100px; border-right: 1px solid #999;  }
+       
+ dd { width: 600px; float: right; }
+       
+ dd.clear { float: none; margin: 0; height: 15px; }
+    
+ </style>
+
+</head>
+
+
+<body>
+
+   
+ <div id="page-wrap">
+    
+       
+ <img src="img\imgCurriculo2.png" width="204" height="204" style="margin-top: 57px;" alt="Photo of Cthulu" id="pic" />
+    
+       
+ <div id="Dados" class="vcard">
+        
+                
+           
+ <h1 class="fn">Victor Dias Dos Santos Assis</h1>
+ 
+<p>Rua Vitorino Alves Moitinho, 85, apto 104,  Castelo Branco, Salvador, BA CEP: 41320-600</p>      
+            
+Telefone: <span class="tel"> (71) 99386-4688</span>
+<br />
+               
+ Email: <a class="email" href="victordiasbr@yahoo.com.br">victordiasbr@yahoo.com.br</a>
+   
+<br />
+ 
+Idade: 19 anos
+<br />
+ 
+Estado Civil: Solteiro.        
+ </p>
+       
+ </div>
+                
+       
+ <div id="objective">
+            
+<p>
+            Oi! eu sou victor Dias, tenho 19 anos e meu principal objetivo &eacute ingressar no mercado de trabalho na area de Tecnologia da informa&ccedil&atildeo.
+            </p>
+       
+ </div>
+        
+       
+ <div class="clear"></div>
+        
+       
+ <dl>
+           
+ <dd class="clear"></dd>
+            
+           
+ <dt>Forma&ccedil&atildeo Acad&ecircmica</dt>
+           
+ <dd>
+               
+ <p>Cursando 4&ordm Semestre, Bacharelado em Engenharia de Software, Universidade Cat&oacutelica de Salvador.</p>
+               
+ <p> Ingresso em 2016.1  Previs&atildeo de Conclus&atildeo: Dezembro/2019. </p>
+                  
+ <p> Ensino M&eacutedio,Escola de Engenharia Eletromec&acircnica da Bahia, Conclu&iacutedo em 2015.</p>
+           
+ </dd>
+            
+           
+ <dd class="clear"></dd>
+            
+           
+ <dt>Qualifica&ccedil&otildees</dt>
+           
+ <dd>
+              
+  <h2>Pacote Office</h2>
+                
+<p>Conhecimento avan&ccedilado em Word, Excel e Power Point.</p>
+  
+ <h2>Internet</h2>
+                
+<p>Praticidade com ferramentas web, Correio eletr&ocircnico, ferramentas de busca e etc. </p>
+  
+<h2>Programa&ccedil&atildeo</h2>
+                
+<p> Programa&ccedil&atildeo em Java (L&oacutegica da Programa&ccedil&atildeo, Programa&ccedil&atildeo orientada a objetos, Estrutura de
+Dados) e engenharia de requisitos.
+</p>
+  
+<p>Conhecimento b&aacutesico em Html.</p> 
+<br/>   
+<br/>   
+        
+<p ><b>Feedback </b></p>
+                       
+<form>
+<input id="ast" name"idAss" type:"text" size="80"><br/>
+<button id="Botao"onclick" Validar()">Enviar<br/>
+</form>
+
+
+ </body> 
+ </div>
+
+   
+</html>
