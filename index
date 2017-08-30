@@ -51,7 +51,7 @@ p { margin: 0 0 16px 0; }
  <div id="page-wrap">
     
        
- <img src="img\imgCurriculo2.png" width="204" height="204" style="margin-top: 57px;" alt="Photo of Cthulu" id="pic" />
+ <img src="https://avatars2.githubusercontent.com/u/30852439?v=4&amp;u=d7cb71494d35428b2a12bd0cf8758be5df87d944&amp;s=400" width="204" height="204" style="margin-top: 57px;" alt="Photo of Cthulu" id="pic" />
     
        
  <div id="Dados" class="vcard">
